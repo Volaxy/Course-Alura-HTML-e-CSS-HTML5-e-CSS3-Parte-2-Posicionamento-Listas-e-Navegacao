@@ -22,3 +22,10 @@ URL do curso -> [HTML5 e CSS3 parte 2: Posicionamento, listas e navegação](htt
 * Uma revisão do conteúdo aprendido no treinamento anterior.
 * Uma revisão da base de uma página HTML.
 * Lista HTML não ordenada.
+
+## 02 - Navegação entre Páginas
+* A criar links para outras páginas, sejam elas do nosso projeto ou páginas externas.
+* Um reforço aos estilos **`inline`** e **`block`**.
+* Como transformar o texto para ter todas as letras maiúsculas.
+* Como deixar o texto em negrito com CSS.
+* Como remover a decoração do texto.
