@@ -34,3 +34,9 @@ URL do curso -> [HTML5 e CSS3 parte 2: Posicionamento, listas e navegação](htt
 * Como remover os estilos que o navegador cria automaticamente.
 * Como funciona os posicionamentos ***static***, ***relative*** e ***absolute*** dos elementos.
 * Como posicionar o cabeçalho da nossa página.
+
+## 04 - A Tag Section
+* A *tag* `main`, para o conteúdo principal da nossa página.
+* A criar listas complexas, com títulos, imagens e parágrafos.
+* A utilizar o `inline-block`.
+* A praticar e estilizar o conteúdo principal da nossa página.
