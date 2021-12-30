@@ -29,3 +29,8 @@ URL do curso -> [HTML5 e CSS3 parte 2: Posicionamento, listas e navegação](htt
 * Como transformar o texto para ter todas as letras maiúsculas.
 * Como deixar o texto em negrito com CSS.
 * Como remover a decoração do texto.
+
+## 03 - Posicionamento dos Elementos
+* Como remover os estilos que o navegador cria automaticamente.
+* Como funciona os posicionamentos ***static***, ***relative*** e ***absolute*** dos elementos.
+* Como posicionar o cabeçalho da nossa página.

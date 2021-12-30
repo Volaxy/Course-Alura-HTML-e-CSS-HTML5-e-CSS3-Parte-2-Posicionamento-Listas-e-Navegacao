@@ -1,0 +1,22 @@
+header {
+	background: #BBBBBB;
+}
+
+nav li {
+	display: inline;
+	margin: 0 0 0 15px;
+}
+
+nav a {
+	text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+	font-size: 22px;
+	text-decoration: none;
+}
+
+/*
+	Ao definir a propriedade "position: relative", o elemento guardará a posição, e caso tenha a propriedade "top", "left", "right" ou "top", ele será modificado
+
+	A propriedade "position: absolute", é uma posição absoluta que não guarda a posição
+*/
