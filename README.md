@@ -40,3 +40,8 @@ URL do curso -> [HTML5 e CSS3 parte 2: Posicionamento, listas e navegação](htt
 * A criar listas complexas, com títulos, imagens e parágrafos.
 * A utilizar o `inline-block`.
 * A praticar e estilizar o conteúdo principal da nossa página.
+
+## 05 - Lidando com Bordas
+* Através do CSS, aplicar bordas nos elementos.
+* Os diferentes tipos de bordas.
+* A deixar a borda arredondada.
