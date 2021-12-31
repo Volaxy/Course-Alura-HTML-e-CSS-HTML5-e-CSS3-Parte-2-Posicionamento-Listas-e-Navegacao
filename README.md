@@ -6,10 +6,10 @@ URL do curso -> [HTML5 e CSS3 parte 2: Posicionamento, listas e navegação](htt
 ![HTML5 e CSS3 parte 2: Posicionamento, listas e navegação](https://www.alura.com.br/assets/api/share/curso-html5-css3-posicionamento-listas-navegacao.png)
 
 ## Links Úteis
-* [Texto Base]() - Texto base para a criação da primeira página.
 * [Sublime Text](https://www.sublimetext.com/) - Editor de código.
 * [Atom](https://atom.io/) - Editor de código.
 * [Visual Studio Code](https://code.visualstudio.com/) - Editor de código recomendado para HTML e CSS.
+* [Unicode](https://unicode-table.com/en/) - Site para ver todos os caracteres.
 
 ## Siglas
 *
@@ -52,3 +52,9 @@ URL do curso -> [HTML5 e CSS3 parte 2: Posicionamento, listas e navegação](htt
     * **`active`**, quando um elemento está sendo ativado pelo usuário.
 * A mudar a cor do texto e/ou da borda de um elemento, quando o usuário passar o cursor sobre o mesmo.
 * A mudar a cor da borda de um elemento, quando o mesmo estiver sendo ativado pelo usuário.
+
+## 07 - Finalizando a Página de Produtos
+* A *tag* `footer`, para o rodapé da nossa página.
+* Que, com CSS, podemos colocar uma imagem de fundo em um elemento.
+    * Quando colocamos uma imagem de fundo em um elemento, o CSS, por padrão, copia e cola a imagem diversas vezes até ocupar todo o espaço do elemento.
+* A tabela **Unicode**.
